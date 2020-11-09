@@ -1,0 +1,15 @@
+apiVersion: v1
+entries:
+  apigw-mocks:
+  - apiVersion: v2
+    appVersion: 1.0.0
+    created: "2020-11-09T07:13:25.5531146Z"
+    description: A Helm chart for Kubernetes DeploymentSet,Service,Gateway,Virtual
+      Service,Inbound, Outbound Rules
+    digest: 533ebf85b21c67e22690b3fcd6a6a3ddab7472584bbfec3e1aafed345b2df8dd
+    name: apigw-mocks
+    type: application
+    urls:
+    - apigw-mocks-1.0.0.tgz
+    version: 1.0.0
+generated: "2020-11-09T07:13:25.3690154Z"
